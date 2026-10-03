@@ -1,0 +1,9 @@
+numpy>=2.1.3
+pandas>=2.2.3
+scikit-learn>=1.6.1
+scipy>=1.15.3
+joblib>=1.3
+jupyter>=1.0
+ipykernel>=6.0
+# Optional ANN section:
+tensorflow>=2.21.0
