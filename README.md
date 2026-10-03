@@ -7,7 +7,7 @@ This project is a practical Data Science and AI/ML notebook focused on predictin
 The notebook is organized into small, separate steps so that the calculations, preprocessing, machine learning models, clustering, and results are easy to follow and explain.
 
 ## Project Files
-[▶️ Watch Project Demonstration Video]([PASTE_YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1XaAMPjt2uWeF4r3cyVUsMuGFpgVggM7r/view?usp=sharing))
+[▶️ Watch Project Demonstration Video]((https://drive.google.com/file/d/1XaAMPjt2uWeF4r3cyVUsMuGFpgVggM7r/view?usp=sharing))
 
 - `campaign_response_project_exam_style (1).ipynb` — main project notebook covering data generation and loading, data auditing, descriptive statistics, a Welch t-test, confidence interval calculation, covariance/eigenvalue analysis, preprocessing and feature engineering, logistic regression, K-Means clustering, and an Artificial Neural Network (ANN).
 - `data/raw/set_b.csv` — generated dataset created by the notebook when the data-generation cell is run.
